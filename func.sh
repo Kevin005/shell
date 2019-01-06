@@ -1,5 +1,5 @@
 #!/bin/sh
-a
+
 func(){
 	global_var="i am a global_var"
 	echo $global_var
